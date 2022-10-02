@@ -1,0 +1,9 @@
+{
+  "name": "Fonte - A Lull in the Sea",
+  "description": "This pack adds a looping version of Fonte from the anime A Lull in the Sea. Music is owned by P.A. Works.",
+  "author": "Midnight",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
